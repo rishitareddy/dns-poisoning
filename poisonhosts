@@ -1,0 +1,11 @@
+192.168.154.155 www.bankofamerica.com
+192.168.154.155 *.tcpdump.com*
+192.168.154.155 *.tcpdump.org*
+192.168.154.155 www.foo.abc
+192.168.154.155 *.cs.stonybrook.edu
+192.168.154.129 www.bankofamerica.com
+192.168.154.129 *.tcpdump.com*
+192.168.154.129 *kellog*
+192.168.154.129 www.foo2.abc
+192.168.154.129 *.cs.stonybrook.edu
+
