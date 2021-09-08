@@ -2,7 +2,9 @@
 
 This repository contains two tools :
 1) an on-path DNS poisoning attack tool, and
-2)  a passive DNS poisoning attack detector.
+2) a passive DNS poisoning attack detector.
+
+It also contains a server file to which the poisoned request is forwarded.
  
 They are developed in Go, using the GoPacket library, and support DNS traffic over port 53.
 
